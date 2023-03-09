@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects>
+  <object tooltip="This is the first object." paddingleft="6"/>
+  <object tooltip="This is the second object." paddingright="9999"/>
+  <object tooltip="This is the third object."/>
+  <object tooltip="" height="500"/>
+  <object background-color="#ffffff" tooltip="" height="500"/>
+  <object background-color="#ffffff" tooltip="" height="500"/>
+  <object height="500" background-color="#ffffff" tooltip="" paddingleft="3" paddingright="5" width="1" value="a" horizontalalign="1"/>
+  <object height="500" background-color="#ffffff" tooltip="" paddingleft="3" paddingright="5" width="1" value="100" horizontalalign="1"/>
+</objects>
